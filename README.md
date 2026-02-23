@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Qadeer Hussain 👋
 
-<!--
-**qadaz/qadaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BSc Computing student at Arden University, Manchester, with a passion for **Python programming, networking, and information security**.  
 
-Here are some ideas to get you started:
+I am actively building practical IT and cybersecurity skills, creating small Python projects and exploring networking and security concepts.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Personal Python projects to strengthen programming and security skills
+- Networking exercises using Cisco Packet Tracer and home lab setups
+
+## 🌱 Skills & Tools
+- **Programming:** Python, HTML, CSS, SQL  
+- **Networking:** TCP/IP fundamentals, Cisco Packet Tracer  
+- **Security:** Information Security Principles, Vulnerability Assessment  
+- **Tools:** Git, VirtualBox, Linux basics, Windows OS
+
+## 📫 How to Reach Me
+- LinkedIn: [Qadeer Hussain](https://www.linkedin.com/in/qadeer-hussain-2017a63b0)  
+- Email: qadeer2009@hotmail.com
+
+## 💻 GitHub Activity
+Check out my repositories below for my coding projects and practical exercises!
