@@ -15,7 +15,6 @@ I am actively building practical IT and cybersecurity skills, creating small Pyt
 
 ## 📫 How to Reach Me
 - LinkedIn: [Qadeer Hussain](https://www.linkedin.com/in/qadeer-hussain-2017a63b0)  
-- Email: qadeer2009@hotmail.com
 
 ## 💻 GitHub Activity
 Check out my repositories below for my coding projects and practical exercises!
