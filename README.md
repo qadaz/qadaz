@@ -1,4 +1,4 @@
-# Hi, I'm Qadeer Hussain 👋
+# Hi, I'm Hussain 👋
 
 I am a BSc Computing student at Arden University, Manchester, building practical skills in IT support, networking, and cybersecurity with a focus on real-world problem solving.
 I am actively building practical IT and cybersecurity skills, creating small Python projects and exploring networking and security concepts.  
