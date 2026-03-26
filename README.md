@@ -58,7 +58,7 @@ class Hussain:
 | Project | Description | Status |
 |---|---|---|
 | 🚗 **Automated Parking System** | Python CLI parking management system with fee & penalty logic | ✅ Complete |
-| 🔐 **Security Labs** | Vulnerability assessment exercises & CTF practice | 🔄 In Progress |
+| 🔐 **[Security Labs](https://github.com/qadaz/security-labs)** | Vulnerability assessment exercises & CTF practice | 🔄 In Progress |
 | 🌐 **Home Network Lab** | Cisco Packet Tracer simulations & real home lab setup | 🔄 In Progress |
 | 📚 **BSc Computing** | Arden University coursework & applied projects | 🔄 Ongoing |
 
